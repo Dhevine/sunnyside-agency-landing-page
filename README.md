@@ -22,7 +22,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Links
 
-- Live Site URL: [daalu-sunnyside.netlify.app](daalu-sunnyside.netlify.app)
+- Live Site URL: [daalu-sunnyside.netlify.app](https://daalu-sunnyside.netlify.app)
 
 ## My process
 

@@ -23,7 +23,8 @@
 }
 
 .hidden{
-  overflow: hidden;
+  position: relative;
+  overflow-y: hidden;
 }
 
 header {

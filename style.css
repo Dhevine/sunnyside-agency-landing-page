@@ -257,7 +257,7 @@ header {
 }
 
 .pic-item--article p {
-  color: var(--dark-grayish-pic-text-color);
+  color: var(--grayish-pic-text-color);
   font-size: var(--body-text);
   line-height: 1.5rem;
   font-family: var(--barlow-font);
@@ -305,7 +305,7 @@ header {
 }
 
 .sectiom--2-pic--detail {
-  color: var(--dark-grayish-pic-text-color);
+  color: var(--grayish-pic-text-color);
   font-size: var(--body-text);
   line-height: 1.5rem;
   font-family: var(--barlow-font);

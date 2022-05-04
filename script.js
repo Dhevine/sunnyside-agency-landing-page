@@ -18,8 +18,6 @@ let options = {
 function elem_func(entries, observer) {
  const [entry] =  entries
  entries.map(el => el.isIntersecting === true ? el.target.classList.add('move_up') : el.target.classList.add('_'));
-
- console.log(entry);
 }
 
 const observer_Elem = new IntersectionObserver(elem_func, options);
